@@ -7,7 +7,7 @@ First of all, I'm a NAND Flash software developer such as Flash Interface Layer 
 Secondly, I'm a Strategy Semiconductor Researcher so I made Tech-News-Briefing every week, Leader's book review and Gartner Curation every month. I strongly believe that all my lessons learned from this work has go to be valuable source for me and my company.
 
 #### 🔭 < Past >
-I was a Software Maestro 10th member (The government-sponsored project designed to discover the best SW talent)
+I was a Software Maestro 10th member (The government-sponsored project designed to discover the best SW talent) 
 
 - 📫 How to reach me : rlagh20@korea.ac.kr
 - 💬 Feel free to ask me about all of your question. 
