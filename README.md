@@ -1,11 +1,12 @@
 ### Hi I'm Kay Kim 👋
-
+##### < Now >
 I work for samsung electronics as a software developer. My main role in my work could be explained by two position.
 First of all, I'm a NAND Flash software developer such as Flash Interface Layer firmware code by using C++ or C language.
 
 Secondly, I'm a Strategy Semiconductor Researcher so I made Tech-News-Briefing every week, Leader's book review and Gartner Curation every month. I strongly believe that all my lessons learned from this work has go to be valuable source for me and my company.
 
-Lastly, I was a Software Maestro 10th member (The government-sponsored project designed to discover the best SW talent)
+##### < Past >
+I was a Software Maestro 10th member (The government-sponsored project designed to discover the best SW talent)
 
 - 📫 How to reach me : rlagh20@korea.ac.kr
 - 💬 Feel free to ask me about all of your question. 
