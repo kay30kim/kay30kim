@@ -39,6 +39,10 @@ I was a Software Maestro 10th member (The government-sponsored project designed 
 5. English
 
 ## My project
+1. Snap Drone
+  It is mobile application that takes photos and video with DJI drone by using just quick motion click button. We developed GCS(Ground Control System) in our drone so you can easily take photos and videos in hot places by using publi drone already builted in the position.
+
+
 
 <!--
 **kay30kim/kay30kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
