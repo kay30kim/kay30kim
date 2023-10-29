@@ -1,4 +1,12 @@
 ### Hi I'm Kay Kim 👋
+### Project Description
+#### MyOwnLibrary: A Comprehensive Implementation of String and List Functions with Dynamic Memory Allocation
+* In my pursuit of a deeper understanding of C/C++ programming, I have meticulously crafted MyOwnLibrary. This library not only replicates all the essential functions found in **<stdio.h> **and **<stdlib.h> **but also goes the extra mile in implementing string and list-related functions while judiciously managing memory allocation.
+
+### Implementation of printf: Mastery of Variable Arguments and Function Parameters
+
+In my relentless pursuit of C/C++ programming mastery, I delved deep into the world of variable-argument functions. I embarked on the challenging journey of recreating the iconic** printf **function from scratch. This endeavor was pivotal in helping me comprehend the intricate workings of variable functions and parameters.
+
 #### 🔭 < Now > 
 I work for samsung electronics as a software developer. My main role in my work could be explained by two position.
 
