@@ -12,7 +12,7 @@ As I continued my journey in C/C++ programming, I embarked on a mission that dem
 The implementation of `get_next_line` was a project that made a significant impact on my programming proficiency. This project has greatly enhanced my understanding of static variables and functions, emphasizing their importance in managing and maintaining the state across multiple function calls. Beyond this, it has provided valuable insights into the intricacies of file handling and data manipulation. Its primary purpose is to facilitate the reading of content line by line from file descriptors.
 
 ---
-<br>
+<br><br>
   
 #### 🔭 < Now > 
 I work for samsung electronics as a software developer. My main role in my work could be explained by two position.
