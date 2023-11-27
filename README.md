@@ -20,16 +20,24 @@ Developed a 2D game from scratch using OpenGL, incorporating graphic techniques 
 ### MyOwnLibrary: A Comprehensive Implementation of String and List Functions with Dynamic Memory Allocation
 MyOwnLibrary is the product of my relentless pursuit of a deeper understanding of C/C++ programming. It serves as a testament to my dedication to this craft. This library not only replicates all the essential functions found in `<stdio.h>` and `<stdlib.h>` but also takes a step further by implementing a wide array of string and list-related functions. Moreover, it places a strong emphasis on the judicious management of memory allocation, ensuring that efficiency and stability are upheld throughout all operations.
 
+- - -
+
 ### Implementation of printf: Mastery of Variable Arguments and Function Parameters
 As I continued my journey in C/C++ programming, I embarked on a mission that demanded a profound understanding of variable-argument functions. I decided to recreate the iconic `printf` function entirely from scratch. This endeavor proved to be pivotal in helping me grasp the intricacies of variable functions and parameters. It was a challenging but immensely rewarding experience, and it significantly enriched my expertise in the realm of programming.
 
+- - -
+
 ### Implementation of get_next_line: Enhancing Proficiency in Static Variables and Functions
 The implementation of `get_next_line` was a project that made a significant impact on my programming proficiency. This project has greatly enhanced my understanding of static variables and functions, emphasizing their importance in managing and maintaining the state across multiple function calls. Beyond this, it has provided valuable insights into the intricacies of file handling and data manipulation. Its primary purpose is to facilitate the reading of content line by line from file descriptors.
+
+- - -
 
 ### SnapDrone : Drone Sharing Service Application
 Implemented Android application, established a server using MongoDB and AWS, and developed a Ground Control System (GCS) for drone management. The GCS facilitates communication between devices through APIs, allowing consumers to share and utilize drones located at specific places without owning one.
 [Youtube1](https://www.youtube.com/watch?v=lzF7Ar_1loc&t=3s)
 [Youtube2](https://www.youtube.com/watch?v=dzAZTBjWU6M)
+
+- - -
 
 
 - 📫 How to reach me : rlagh20@korea.ac.kr
