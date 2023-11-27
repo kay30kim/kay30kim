@@ -14,7 +14,7 @@
 Developed a 2D game from scratch using OpenGL, incorporating graphic techniques to receive and render textures. Utilized map input hooks to capture user movements, dynamically transforming the map accordingly. Implemented the entire process using a Makefile and my own implemented library.
 
 <img width="100%" src="https://github.com/kay30kim/2D_Game/assets/59407632/2b62ed0d-bb0e-4e06-80eb-c85a7d292a37">
-<br></br>
+- - -
 ### MyOwnLibrary: A Comprehensive Implementation of String and List Functions with Dynamic Memory Allocation
 MyOwnLibrary is the product of my relentless pursuit of a deeper understanding of C/C++ programming. It serves as a testament to my dedication to this craft. This library not only replicates all the essential functions found in `<stdio.h>` and `<stdlib.h>` but also takes a step further by implementing a wide array of string and list-related functions. Moreover, it places a strong emphasis on the judicious management of memory allocation, ensuring that efficiency and stability are upheld throughout all operations.
 
