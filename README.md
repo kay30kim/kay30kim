@@ -17,17 +17,16 @@ Developed a 2D game from scratch using OpenGL, incorporating graphic techniques 
 
 - - -
 
-### Sort using two deque : 
+### Sort using two deque : This is a algorithm project where we must sort a given list of random numbers with a limited set of instructions, using the lowest possible number of actions.
 
 
 <img width="100%" src="https://github.com/kay30kim/2D_Game/assets/59407632/2b62ed0d-bb0e-4e06-80eb-c85a7d292a37">
 
 - - -
 
-### Minitalk (IPC - Server & Clinet) : 
+### [Minitalk (IPC - Server & Clinet) : The purpose of this project is to code a small data exchange program using *UNIX signals*.](https://github.com/kay30kim/Minitalk_server_client)
 
-
-<img width="100%" src="https://github.com/kay30kim/2D_Game/assets/59407632/2b62ed0d-bb0e-4e06-80eb-c85a7d292a37">
+<img width="100%" src= "https://github.com/kay30kim/Minitalk_server_client/assets/59407632/d358c2d9-fdfc-40b0-aba3-becc70e41619"/>
 
 - - -
 
