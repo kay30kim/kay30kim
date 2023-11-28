@@ -10,14 +10,14 @@
 - 📚 I majored in **Electronics and Information Engineerin**g at **Korea University**, gaining extensive knowledge in hardware, including *_electronic circuits, semiconductors, and FPGA_*, as well as software-related expertise in *_C, C++, and Operating Systems_*
 
 ## My projects Overview
-### 2D Game : improving graphics development skills related to window management, event handling, colors, textures, and other related areas using OpenGL library
+### [2D Game : improving graphics development skills related to window management, event handling, colors, textures, and other related areas using OpenGL library](https://github.com/kay30kim/2D_Game)
 Developed a 2D game from scratch using OpenGL, incorporating graphic techniques to receive and render textures. Utilized map input hooks to capture user movements, dynamically transforming the map accordingly. Implemented the entire process using a Makefile and my own implemented library.
 
 <img width="100%" src="https://github.com/kay30kim/2D_Game/assets/59407632/2b62ed0d-bb0e-4e06-80eb-c85a7d292a37">
 
 - - -
 
-### Sort using two deque : This is a algorithm project where we must sort a given list of random numbers with a limited set of instructions, using the lowest possible number of actions.
+### [Sort using two deque : This is a algorithm project where we must sort a given list of random numbers with a limited set of instructions, using the lowest possible number of actions.](https://github.com/kay30kim/Sort-using-two-deque)
 
 
 <img width="100%" src="https://github.com/kay30kim/2D_Game/assets/59407632/2b62ed0d-bb0e-4e06-80eb-c85a7d292a37">
