@@ -20,7 +20,7 @@ Developed a 2D game from scratch using OpenGL, incorporating graphic techniques 
 ### [Sort using two deque : This is a algorithm project where we must sort a given list of random numbers with a limited set of instructions, using the lowest possible number of actions.](https://github.com/kay30kim/Sort-using-two-deque)
 
 
-<img width="100%" src="https://github.com/kay30kim/2D_Game/assets/59407632/2b62ed0d-bb0e-4e06-80eb-c85a7d292a37">
+<img width="100%" src="https://user-images.githubusercontent.com/38796098/57738594-6b6ae500-76b0-11e9-9d29-0f59ee825e8e.gif">
 
 - - -
 
