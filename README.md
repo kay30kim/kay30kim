@@ -12,16 +12,27 @@
 ## My projects Overview
 ### Java & Back-end
 
+- - -
+
 ### Tic-Tac-Toe Game (Javascript & HTML & CSS & Node.js)
 Build an interactive Tic-Tac-Toe web game where two players take turns placing 'X' and 'O' marks on a 3x3 grid. The player with the 'X' mark starts the game. The objective is to be the first to place three marks in a vertical, horizontal, or diagonal row to win. If all spaces are filled and no player achieves three marks in a row, the game ends in a draw. Utilize HTML, CSS, and JavaScript for frontend mastery, and delve into backend processes with NodeJS, Express, and databases.
 
+- - -
+
 ### [Philosopers (Multithreading)](https://github.com/kay30kim/Philosophers-Multithreading-)
+Implement a solution to the dining philosophers problem using threads and mutexes. Each philosopher is represented by a thread, and there is one fork between each pair of philosophers. To prevent race conditions, mutexes are used to protect the state of forks. 
+
+- - -
 
 ### [React & CSS & Node.js](https://github.com/kay30kim/CardPost)
 Created a bulletin board using React to manage author and context content, named CardPost. Explored various technologies including React, React Hooks, Redux, Context API, Next.js, TypeScript, and applied them in building a full-stack app. The project is ideal for those learning React, offering in-depth tutorials on advanced topics, real-world application development, and performance optimization techniques.
 
-### Travel tracking web site (Javascript & HTML & CSS & Node.js)
+- - -
+
+### [Travel tracking web site (Javascript & HTML & CSS & Node.js)](https://github.com/kay30kim/mini_web)
 Developed a responsive web app using JavaScript to chronicle overseas trips and food experiences. Leveraged JS for dynamic DOM manipulation, employed CSS for styling, and integrated Bootstrap for a consistent UI. Node.js was used for the back-end to ensure seamless communication and server-side functionality.
+
+- - -
 
 ### [2D Game : improving graphics development skills related to window management, event handling, colors, textures, and other related areas using OpenGL library](https://github.com/kay30kim/2D_Game)
 Developed a 2D game from scratch using OpenGL, incorporating graphic techniques to receive and render textures. Utilized map input hooks to capture user movements, dynamically transforming the map accordingly. Implemented the entire process using a Makefile and my own implemented library.
@@ -38,6 +49,7 @@ The "push_swap" program is a sorting algorithm implementation that takes a stack
 - - -
 
 ### [Minitalk (IPC - Server & Clinet) : The purpose of this project is to code a small data exchange program using *UNIX signals*.](https://github.com/kay30kim/Minitalk_server_client)
+Create a client-server system for exchanging messages through UNIX signals. The server, launched first, prints its PID. The client, taking the server PID and a string as parameters, sends the string to the server, which then prints it.
 
 <img width="100%" src= "https://github.com/kay30kim/Minitalk_server_client/assets/59407632/d358c2d9-fdfc-40b0-aba3-becc70e41619"/>
 
