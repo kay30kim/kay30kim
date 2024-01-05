@@ -10,6 +10,19 @@
 - 📚 I majored in **Electronics and Information Engineerin**g at **Korea University**, gaining extensive knowledge in hardware, including *_electronic circuits, semiconductors, and FPGA_*, as well as software-related expertise in *_C, C++, and Operating Systems_*
 
 ## My projects Overview
+### Java & Back-end
+
+### Tic-Tac-Toe Game (Javascript & HTML & CSS & Node.js)
+Build an interactive Tic-Tac-Toe web game where two players take turns placing 'X' and 'O' marks on a 3x3 grid. The player with the 'X' mark starts the game. The objective is to be the first to place three marks in a vertical, horizontal, or diagonal row to win. If all spaces are filled and no player achieves three marks in a row, the game ends in a draw. Utilize HTML, CSS, and JavaScript for frontend mastery, and delve into backend processes with NodeJS, Express, and databases.
+
+### [Philosopers (Multithreading)](https://github.com/kay30kim/Philosophers-Multithreading-)
+
+### [React & CSS & Node.js](https://github.com/kay30kim/CardPost)
+Created a bulletin board using React to manage author and context content, named CardPost. Explored various technologies including React, React Hooks, Redux, Context API, Next.js, TypeScript, and applied them in building a full-stack app. The project is ideal for those learning React, offering in-depth tutorials on advanced topics, real-world application development, and performance optimization techniques.
+
+### Travel tracking web site (Javascript & HTML & CSS & Node.js)
+Developed a responsive web app using JavaScript to chronicle overseas trips and food experiences. Leveraged JS for dynamic DOM manipulation, employed CSS for styling, and integrated Bootstrap for a consistent UI. Node.js was used for the back-end to ensure seamless communication and server-side functionality.
+
 ### [2D Game : improving graphics development skills related to window management, event handling, colors, textures, and other related areas using OpenGL library](https://github.com/kay30kim/2D_Game)
 Developed a 2D game from scratch using OpenGL, incorporating graphic techniques to receive and render textures. Utilized map input hooks to capture user movements, dynamically transforming the map accordingly. Implemented the entire process using a Makefile and my own implemented library.
 
@@ -18,7 +31,7 @@ Developed a 2D game from scratch using OpenGL, incorporating graphic techniques 
 - - -
 
 ### [Sort using two deque : This is a algorithm project where we must sort a given list of random numbers with a limited set of instructions, using the lowest possible number of actions.](https://github.com/kay30kim/Sort-using-two-deque)
-
+The "push_swap" program is a sorting algorithm implementation that takes a stack of integers as input and outputs the smallest list of instructions required to sort the stack. The primary goal is to have the smallest number at the top of the stack. The program uses quicksort with two deques, separating elements based on a pivot value. Additionally, mergesort is employed to determine the pivot.
 
 <img width="100%" src="https://user-images.githubusercontent.com/38796098/57738594-6b6ae500-76b0-11e9-9d29-0f59ee825e8e.gif">
 
