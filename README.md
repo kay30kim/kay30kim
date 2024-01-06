@@ -1,16 +1,18 @@
 ## Hi I'm Kay Kim 👋
 **"No developer is bigger than the Team"** This encapsulates my work philosophy.  
 - 👨‍💻 Crafting code as a software developer.
+- 💻 Full-stack developer specializing in **web freelancing**, skilled in front-end technologies (*React, JS, HTML, CSS*) and back-end frameworks (*Node.js, Express*) for dynamic and responsive applications.
 - 🌱 I work for **Samsung Electronics** as a **software developer** using **C/C++(14)**.
    *Experienced _software life cycle_ for SSDs, including requirements analysis, architecture design, feature implementation on a large scale in C/C++ (14), bug tracking, adherence to coding standards, code reviews, coverity, and (unit/integrating) testing*
 - 🚀 I've engaged in diverse projects involving *_C/C++, Linux, Web, Docker, and Graphics_* at **42 Quebec** and am currently active in ongoing 42 curriculum assignments.
-- 💼 I worked as a **software developer** intern at the **Electronics and Telecommunications Research Institute(ETRI)**.
-- 🚁 I was a member of the **10th Software Maestro** sponsored by the Ministry of Science and ICT, where I developed a *_Drone Sharing Service Application_*.
+- 💼 I did an intership as a **software developer** at the **Electronics and Telecommunications Research Institute(ETRI)**.
+- 🚁 I was a member of the **10th Software Maestro** sponsored by the Ministry of Science and ICT in Republic of Korea, where I developed a *_Drone Sharing Service Application_*.
 - 🏆 I received the **grand prize** in the application category at **The Open Software Competition** hosted by the Ministry of Science and ICT. - (NIPA President Award).
 - 📚 I majored in **Electronics and Information Engineerin**g at **Korea University**, gaining extensive knowledge in hardware, including *_electronic circuits, semiconductors, and FPGA_*, as well as software-related expertise in *_C, C++, and Operating Systems_*
 
 ## My projects Overview
-### Java & Back-end
+### Web Game using Spring Framework
+This web game, developed with the Spring Framework, features three classic games: Mario, Super, and Pacman. The project utilizes both XML and Spring Annotations for configuration and implementation. The primary focus is on performance comparison and optimization strategies, including the use of lazy loading and other essential Spring annotations.
 
 - - -
 
@@ -78,7 +80,7 @@ Implemented Android application, established a server using MongoDB and AWS, and
 - - -
 
 
-- 📫 How to reach me : rlagh20@korea.ac.kr
+- 📫 How to reach me : kay30kim@gmail.com
 - 💬 Feel free to ask me about all of your question. 
 - 🌱 I'm currently learning about *graphics* and *web*.
 
