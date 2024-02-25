@@ -11,8 +11,11 @@
 - 📚 I majored in **Electronics and Information Engineerin**g at **Korea University**, gaining extensive knowledge in hardware, including *_electronic circuits, semiconductors, and FPGA_*, as well as software-related expertise in *_C, C++, and Operating Systems_*
 
 ## My projects Overview
-### Web Game using Spring Framework
-This web game, developed with the Spring Framework, features three classic games: Mario, Super, and Pacman. The project utilizes both XML and Spring Annotations for configuration and implementation. The primary focus is on performance comparison and optimization strategies, including the use of lazy loading and other essential Spring annotations.
+### [Online Market Place](https://github.com/kay30kim/MarketPlace)
+This is full-stack **JavaScript** project utilizing **Node.js** for backend implementing robust security measures such as **CSRF** protection for sensitive data. And also I adheres to **MVC pattern** with **EJS templates** for well-structured code architecture. Utilizing **Ajax** for dynamic updates and seamlessly integrating with the **Stripe API** for payment processing, this project epitomizes modern web development practices. So, this is an **responsive website**(Online Market Place) where both administrator and user accounts are segregated, enabling users to add items to their cart and make purchases as needed.
+
+### [Minishell working like Bash](https://github.com/kay30kim/minishell)
+In collaboration with [Léopold](https://github.com/lcouturi), we developed a Minishell mirroring Bash's functionality. I focus on pipe, redirection, and signal handling, we seamlessly supported each other's tasks, resulting in a robust shell implementation. This project deepened my understanding of Unix concepts like multiprocessing and file descriptors, showcasing effective teamwork and modern C programming practices.
 
 - - -
 
