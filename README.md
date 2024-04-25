@@ -11,31 +11,13 @@
 - 📚 I majored in **Electronics and Information Engineerin**g at **Korea University**, gaining extensive knowledge in hardware, including *_electronic circuits, semiconductors, and FPGA_*, as well as software-related expertise in *_C, C++, and Operating Systems_*
 
 ## My projects Overview
-### [Online Market Place](https://github.com/kay30kim/MarketPlace)
-This is full-stack **JavaScript** project utilizing **Node.js** for backend implementing robust security measures such as **CSRF** protection for sensitive data. And also I adheres to **MVC pattern** with **EJS templates** for well-structured code architecture. Utilizing **Ajax** for dynamic updates and seamlessly integrating with the **Stripe API** for payment processing, this project epitomizes modern web development practices. So, this is an **responsive website**(Online Market Place) where both administrator and user accounts are segregated, enabling users to add items to their cart and make purchases as needed.
-
 ### [Minishell working like Bash](https://github.com/kay30kim/minishell)
 In collaboration with [Léopold](https://github.com/lcouturi), we developed a Minishell mirroring Bash's functionality. I focus on **pipe**, **redirection**, and **signal handling**, we seamlessly supported each other's tasks, resulting in a robust shell implementation. This project deepened my understanding of Unix concepts like **multiprocessing** and **file descriptors**, showcasing effective teamwork and modern C programming practices.
 
 - - -
 
-### Tic-Tac-Toe Game (Javascript & HTML & CSS)
-Build an interactive Tic-Tac-Toe web game where two players take turns placing 'X' and 'O' marks on a 3x3 grid. The player with the 'X' mark starts the game. The objective is to be the first to place three marks in a vertical, horizontal, or diagonal row to win. If all spaces are filled and no player achieves three marks in a row, the game ends in a draw. Utilize **HTML, CSS, and JavaScript** for frontend mastery, and delve into backend processes with NodeJS, Express, and databases.
-
-- - -
-
 ### [Philosopers (Multithreading)](https://github.com/kay30kim/Philosophers-Multithreading-)
 Implement a solution to the dining philosophers problem using **threads and mutexes**. Each philosopher is represented by a thread, and there is one fork(resource) between each pair of philosophers. To prevent **race conditions, mutexes** are used to protect the state of forks. 
-
-- - -
-
-### [React & CSS & Node.js](https://github.com/kay30kim/CardPost)
-Created a bulletin board using **React** to manage author and context content, named CardPost. Explored various technologies including **React, React Hooks, Redux, Context API, Next.js, TypeScript**, and applied them in building a full-stack app. The project is ideal for those learning React, offering in-depth tutorials on advanced topics, real-world application development, and performance optimization techniques.
-
-- - -
-
-### [Travel tracking web site (Javascript & HTML & CSS & Node.js)](https://github.com/kay30kim/mini_web)
-Developed a **responsive web app** using **JavaScript** to chronicle overseas trips and food experiences. Leveraged JS for dynamic DOM manipulation, employed CSS for styling, and integrated Bootstrap for a consistent UI. Node.js was used for the back-end to ensure seamless communication and server-side functionality.
 
 - - -
 
