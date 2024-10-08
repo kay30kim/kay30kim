@@ -1,14 +1,17 @@
 ## Hi I'm Kay Kim 👋
 **"No developer is bigger than the Team"** This encapsulates my work philosophy.  
-- 👨‍💻 Crafting code as a software developer.
-- 💻 Full-stack developer specializing in **web freelancing**, skilled in front-end technologies (*React, JS, HTML, CSS*) and back-end frameworks (*Node.js, Express*) for dynamic and responsive applications.
-- 🌱 I work for **Samsung Electronics** as a **software developer** using **C/C++(14)**.
-   *Experienced _software life cycle_ for SSDs, including requirements analysis, architecture design, feature implementation on a large scale in C/C++ (14), bug tracking, adherence to coding standards, code reviews, coverity, and (unit/integrating) testing*
-- 🚀 I've engaged in diverse projects involving *_C/C++, Linux, Web, Docker, and Graphics_* at **42 Quebec** and am currently active in ongoing 42 curriculum assignments.
+- 👨‍💻 As the **founder** of the **GCC (Global Coding Community)**, I lead a group that **connects passionate developers worldwide**, **fosters knowledge sharing**, and facilitates mutual study verification.
+- 💻 I'm currently working at **Corinex**, a company specializing in network modems. My role involves applying in-depth knowledge of **network layers 1 to 3** and working extensively with **LCMP** and **Modbus protocols** in a **Linux** environment, using **C/C++**
+- 🌱 I worked at **Samsung Electronis** as a **software developer** using **C/C++(14)** for 4 years. 🗄️ Involved throughout the **software life cycle** for SSDs, including requirements analysis, architecture design, large-scale feature implementation in **C/C++ (14)**, bug tracking, adherence to coding standards, code reviews, and Coverity, as well as **unit and integration testing**. Contributed extensively to **memory management and optimization** efforts, driving performance enhancements that culminated in the launch of the 990PRO SSD!
+
+🎉 Released 990PRO SSD!! 🎉 (I have released more than 4 SSD products, but this one is especially meaningful to me because I was actively involved **from initial architecture design through development, testing, and the final release**.)
+- 🚀 I've engaged in diverse projects involving **C/C++, Linux, Docker,Multi Process/Threading and Graphics** at **42 Quebec, Canada**.
 - 💼 I did an intership as a **software developer** at the **Electronics and Telecommunications Research Institute(ETRI)**.
 - 🚁 I was a member of the **10th Software Maestro** sponsored by the Ministry of Science and ICT in Republic of Korea, where I developed a *_Drone Sharing Service Application_*.
 - 🏆 I received the **grand prize** in the application category at **The Open Software Competition** hosted by the Ministry of Science and ICT. - (NIPA President Award).
-- 📚 I majored in **Electronics and Information Engineerin**g at **Korea University**, gaining extensive knowledge in hardware, including *_electronic circuits, semiconductors, and FPGA_*, as well as software-related expertise in *_C, C++, and Operating Systems_*
+- 📚 I majored in **Electronics and Information Engineering** at **Korea University**, gaining extensive knowledge in hardware, including *_electronic circuits, semiconductors, and FPGA_*, as well as software-related expertise in *_C, C++, and Operating Systems_*
+
+My expertise areas are **C and C++**, and I enjoy creating **games** using **rendering and multithreading** with these languages. Currently, I work at a networking company, where I contribute to the [Modbus library](https://libmodbus.org/). The projects below reflect this work.
 
 ## My projects Overview
 ### [Minishell working like Bash](https://github.com/kay30kim/minishell)
