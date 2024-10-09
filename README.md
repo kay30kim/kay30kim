@@ -8,7 +8,7 @@
 - 💼 I did an intership as a **software developer** at the **Electronics and Telecommunications Research Institute(ETRI)**.
 - 🚁 I was a member of the **10th Software Maestro** sponsored by the Ministry of Science and ICT in Republic of Korea, where I developed a *_Drone Sharing Service Application_*.
 - 🏆 I received the **grand prize** in the application category at **The Open Software Competition** hosted by the Ministry of Science and ICT. - (NIPA President Award).
-- 📚 I majored in **Electronics and Information Engineering** at **Korea University**, gaining extensive knowledge in hardware, including *_electronic circuits, semiconductors, and FPGA_*, as well as software-related expertise in *_C, C++, and Operating Systems_*
+- 📚 I majored in **Electronics and Information Engineering** at **Korea University**, gaining extensive knowledge in hardware, including electronic circuits, semiconductors, and FPGA, as well as software-related expertise in C, C++, and Operating Systems.
 
 My expertise areas are **C and C++**, and I enjoy creating **games** using **rendering and multithreading** with these languages. Currently, I work at a networking company, where I contribute to the [Modbus library](https://libmodbus.org/). The projects below reflect this work.
 
