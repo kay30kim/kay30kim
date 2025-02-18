@@ -1,7 +1,7 @@
 ## Hi I'm Kay Kim 👋
 **"No developer is bigger than the Team"** This encapsulates my work philosophy.  
 - 👨‍💻 As the **founder** of the **GCC (Global Coding Community)**, I lead a group that **connects passionate developers worldwide**, **fosters knowledge sharing**, and facilitates mutual study verification.
-- 💻 I'm currently working at **Corinex**, a company specializing in network modems. My role involves applying in-depth knowledge of **network layers 1 to 3** and working extensively with **LCMP** and **Modbus protocols** in a **Linux** environment, using **C/C++**
+- 💻 I'm currently working at **Corinex**, a company specializing in network devices and modems. My role involves applying in-depth knowledge of **network layers 1 to 3** and working extensively with **LCMP** and **Modbus protocols** in a **Linux** environment, using **C/C++**. One of my key achievements in here is that [I designed and implemented a scalable Modbus Server-Client simulator (TCP/RTU) with multi-processing and multi-threading](https://www.linkedin.com/feed/update/urn:li:activity:7266336474655014912/). 
 - 🌱 I worked at **Samsung Electronis** as a **software developer** using **C/C++(14)** for 4 years. 🗄️ Involved throughout the **software life cycle** for SSDs, including requirements analysis, architecture design, large-scale feature implementation in **C/C++ (14)**, bug tracking, adherence to coding standards, code reviews, and Coverity, as well as **unit and integration testing**. Contributed extensively to **memory management and optimization** efforts, driving performance enhancements that culminated in the launch of the 990PRO SSD!
 - 🎉 Released **990PRO SSD** in Samsung, which delivered the highest performance of its time!! 🎉 I have released more than 4 SSD products, but this one is especially meaningful to me because I was actively involved **from initial architecture design through development, testing, and the final release**.
 - 🚀 I've engaged in diverse projects involving **C/C++, Linux, Docker,Multi Process/Threading and Graphics** at **42 Quebec, Canada**.
@@ -13,6 +13,23 @@
 My expertise areas are **C and C++**, and I enjoy creating **games** using **rendering and multithreading** with these languages. Currently, I work at a networking company, where I contribute to the [Modbus library](https://libmodbus.org/). The projects below reflect this work.
 
 ## My projects Overview
+## [C++ Smart Energy Device Simulator using Modbus (TCP/RTU) Server-Client Architecture](https://www.linkedin.com/posts/kaykim30_designing-and-building-a-c-modbustcp-activity-7266336474655014912-Csre)
+This project is a C/C++ simulation for EV Chargers, PV Inverters, Heat Pumps, and Substation Meters using Modbus TCP/RTU. The simulation utilizes multi-processing and multi-threading, with these systems as Modbus Servers and field devices as Modbus Clients. It is designed for high scalability and performance, capable of modeling complex communication scenarios in smart energy grids, making it ideal for testing, development, and demonstration purposes in energy and automation systems.
+<img width="100%" src="https://github.com/user-attachments/assets/8c0c3ddd-cefe-4720-a104-7bd55382e470">
+
+- - -
+
+## [3D Game](https://github.com/kay30kim/3D-Game)
+With a strong interest in game engines, started a project focused on 3D rendering. The project involves implementing Wolfenstein-style 3D perspective raycasting and is currently in progress. The goal is to create a simple shooting game.
+<img width="100%" src="https://github.com/user-attachments/assets/a001cab2-a281-450a-a306-f0d2984e72fd">
+
+- - -
+
+## [Applying C++ Concepts](https://github.com/kay30kim/CPP_Projects)
+Reviewed C++ concepts through hands-on coding exercises, covering copy constructors, virtual destructors, inheritance, polymorphism, encapsulation, abstraction, and templates. This project is also used to explain these concepts to university students, coding enthusiasts, and mentees through collaborative practice tasks.
+
+- - -
+
 ### [Minishell working like Bash](https://github.com/kay30kim/minishell)
 In collaboration with [Léopold](https://github.com/lcouturi), we developed a Minishell mirroring Bash's functionality. I focus on **pipe**, **redirection**, and **signal handling**, we seamlessly supported each other's tasks, resulting in a robust shell implementation. This project deepened my understanding of Unix concepts like **multiprocessing** and **file descriptors**, showcasing effective teamwork and modern C programming practices.
 
