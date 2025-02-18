@@ -13,19 +13,19 @@
 My expertise areas are **C and C++**, and I enjoy creating **games** using **rendering and multithreading** with these languages. Currently, I work at a networking company, where I contribute to the [Modbus library](https://libmodbus.org/). The projects below reflect this work.
 
 ## My projects Overview
-## [C++ Smart Energy Device Simulator using Modbus (TCP/RTU) Server-Client Architecture](https://www.linkedin.com/posts/kaykim30_designing-and-building-a-c-modbustcp-activity-7266336474655014912-Csre)
+### [C++ Smart Energy Device Simulator using Modbus (TCP/RTU) Server-Client Architecture](https://www.linkedin.com/posts/kaykim30_designing-and-building-a-c-modbustcp-activity-7266336474655014912-Csre)
 This project is a C/C++ simulation for EV Chargers, PV Inverters, Heat Pumps, and Substation Meters using Modbus TCP/RTU. The simulation utilizes multi-processing and multi-threading, with these systems as Modbus Servers and field devices as Modbus Clients. It is designed for high scalability and performance, capable of modeling complex communication scenarios in smart energy grids, making it ideal for testing, development, and demonstration purposes in energy and automation systems.
 <img width="100%" src="https://github.com/user-attachments/assets/8c0c3ddd-cefe-4720-a104-7bd55382e470">
 
 - - -
 
-## [3D Game](https://github.com/kay30kim/3D-Game)
+### [3D Game](https://github.com/kay30kim/3D-Game)
 With a strong interest in game engines, started a project focused on 3D rendering. The project involves implementing Wolfenstein-style 3D perspective raycasting and is currently in progress. The goal is to create a simple shooting game.
 <img width="100%" src="https://github.com/user-attachments/assets/a001cab2-a281-450a-a306-f0d2984e72fd">
 
 - - -
 
-## [Applying C++ Concepts](https://github.com/kay30kim/CPP_Projects)
+### [Applying C++ Concepts](https://github.com/kay30kim/CPP_Projects)
 Reviewed C++ concepts through hands-on coding exercises, covering copy constructors, virtual destructors, inheritance, polymorphism, encapsulation, abstraction, and templates. This project is also used to explain these concepts to university students, coding enthusiasts, and mentees through collaborative practice tasks.
 
 - - -
