@@ -13,6 +13,12 @@
 My expertise areas are **C and C++**, and I enjoy creating **games** using **rendering and multithreading** with these languages. Currently, I work at a networking company, where I contribute to the [Modbus library](https://libmodbus.org/). The projects below reflect this work.
 
 ## My projects Overview
+### [IRC(Internet Relay Chat)](https://github.com/kay30kim/Internet-Relay-Chat)
+ Implemented IRC which is designed for real-time message exchange, primarily for group communication in discussion forums (channels) but also supporting private messaging and data exchange, including file sharing. The server efficiently handles multiple concurrent client connections using a poll-based socket mechanism and employs multithreading to enhance performance.
+<img width="1149" alt="Image" src="https://github.com/user-attachments/assets/23667b4c-c61d-477d-ae91-5238c9f46f57" />
+
+- - -
+
 ### [C++ Smart Energy Device Simulator using Modbus (TCP/RTU) Server-Client Architecture](https://www.linkedin.com/posts/kaykim30_designing-and-building-a-c-modbustcp-activity-7266336474655014912-Csre)
 This project is a C/C++ simulation for EV Chargers, PV Inverters, Heat Pumps, and Substation Meters using Modbus TCP/RTU. The simulation utilizes multi-processing and multi-threading, with these systems as Modbus Servers and field devices as Modbus Clients. It is designed for high scalability and performance, capable of modeling complex communication scenarios in smart energy grids, making it ideal for testing, development, and demonstration purposes in energy and automation systems.
 <img width="100%" src="https://github.com/user-attachments/assets/8c0c3ddd-cefe-4720-a104-7bd55382e470">
